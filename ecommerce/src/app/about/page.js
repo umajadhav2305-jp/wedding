@@ -17,6 +17,7 @@ const page = () => {
         <div className="container">
           <div className="pages_name_wrap">
             <h1>ABOUT</h1>
+            <h2>hello react </h2>
           </div>
         </div>
       </div>
